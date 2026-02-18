@@ -1,0 +1,19 @@
+{
+  "day_restrictions": {},
+  "day_activations": {
+    "4": [
+      2
+    ]
+  },
+  "4": {
+    "uid": 4,
+    "name": "amine",
+    "privilege": 0,
+    "password": "123",
+    "group_id": "",
+    "user_id": "4",
+    "card": 0
+  },
+  "time_restrictions": {},
+  "time_activations": {}
+}
